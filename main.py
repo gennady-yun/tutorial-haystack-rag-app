@@ -4,7 +4,7 @@ from chat_pipeline import run_pipeline
 
 
 if __name__ == "__main__":
-    query = "Сколько стоит Xiaomi 14 Pro?"
+    query = "Сколько стоит iPhone 17" #Xiaomi 14 Pro?"
     # Run the pipeline
     response = run_pipeline(query)
 
